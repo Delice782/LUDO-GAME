@@ -1,7 +1,7 @@
 # LUDO-GAME
 
-Progressive Ludo Game Project
-Welcome to the Progressive Ludo Game repository! This project is developed as part of our computer science coursework and aims to implement a Ludo game in Python with increasing levels of complexity from one piece per player to the standard four pieces per player.
+This repository features the Progressive Ludo Game, a simplified and educational variant of the traditional board game designed to teach game development fundamentals. Starting with basic gameplay for two players each controlling one piece, the game evolves to include up to four pieces per player, demonstrating increased complexity and strategic depth. This project is implemented in Python and serves as a practical introduction to programming concepts such as turn-based mechanics, user interaction, and state management. Ideal for students and beginners looking to understand the basics of game development and software engineering.
+
 
 ## Game Description
 The game consists of a single version that starts with two players, each with one piece, and can be expanded to four pieces each. It incorporates basic Ludo rules with some adaptations to fit the course requirements and simplify the gameplay.
